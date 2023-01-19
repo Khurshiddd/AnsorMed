@@ -168,6 +168,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: 2s;
 }
 .logo-icon {
     padding-right: 16px;
